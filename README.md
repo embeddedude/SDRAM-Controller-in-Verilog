@@ -1,5 +1,4 @@
-# SDRAM-Controller-in-Verilog
-A complete SDRAM Controller designed from scratch in Verilog HDL. This project implements the complete command sequencing and timing required for SDRAM communication using a modular, FSM-based architecture
+
 # SDRAM Controller in Verilog
 
 A complete implementation of an SDRAM Controller in Verilog HDL along with detailed theory notes explaining SDRAM architecture, timing, command protocol, and controller design. This repository serves as both a learning resource and a complete RTL implementation.
